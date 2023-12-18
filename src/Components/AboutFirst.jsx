@@ -7,7 +7,7 @@ function AboutFirst() {
     return (
         <div className="flex flex-col bg-[#FBEAEB] h-auto md:h-auto">
             <div className="flex justify-center items-center">
-                <img src={logotop} alt="img1" className="h-28" />
+                <img src={logotop} alt="img1" className="h-auto" />
             </div>
             <div className="flex">
                 <div>
